@@ -15,6 +15,7 @@ from kivy.graphics import (Color,Ellipse,Rectangle,Line)
 
 score=0
 #write your words in this tuple like like in the example 
+#enter the words in here
 words_backup=(
 
 ['Canada' , 'le village' ],
